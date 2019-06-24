@@ -1,45 +1,45 @@
 _AgathaBeforeBattleText:: ; 8686b (21:686b)
-	text "I am AGATHA of"
-	line "the ELITE FOUR!"
+	text "אני אגאת'ה"
+	line "!מהאליט פור"
 
-	para "OAK's taken a lot"
-	line "of interest in"
-	cont "you, child!"
+	para "אוק גילה בך"
+	line ",עניין רב"
+	cont "!ילדון"
 
-	para "That old duff was"
-	line "once tough and"
-	cont "handsome! That"
-	cont "was decades ago!"
+	para "השמן הזקן הזה"
+	line "היה פעם קשוח"
+	cont "וחתיך! אבל זה"
+	cont "!היה מזמן"
 
-	para "Now he just wants"
-	line "to fiddle with"
-	cont "his #DEX! He's"
-	cont "wrong! #MON"
-	cont "are for fighting!"
+	para "עכשיו הוא רק"
+	line "רוצה להתעסק עם"
+	cont "!הפוקידע שלו"
+	cont "הוא טועה! פוקימונים"
+	cont "!נועדו לקרבות"
 
-	para $52, "! I'll show"
-	line "you how a real"
-	cont "trainer fights!"
+	para $52, "!אראה לך"
+	line "איך נלחם"
+	cont "!מאמן אמיתי"
 	done
 
 _AgathaEndBattleText:: ; 86970 (21:6970)
-	text "Oh ho!"
-	line "You're something"
-	cont "special, child!"
+	text "!או הו"
+	line "אתה משהו"
+	cont "!מיוחד, ילדון"
 	prompt
 
 _AgathaAfterBattleText:: ; 86998 (21:6998)
-	text "You win! I see"
-	line "what the old duff"
-	cont "sees in you now!"
+	text "ניצחת! אני מבינה"
+	line "עכשיו מה הזקן"
+	cont "!השמן רואה בך"
 
-	para "I have nothing"
-	line "else to say! Run"
-	cont "along now, child!"
+	para "אין לי עוד"
+	line "מה להגיד! המשך"
+	cont "!בדרכך, ילדון"
 	done
 
 _AgathaText2:: ; 869fd (21:69fd)
-	text "Someone's voice:"
-	line "Don't run away!"
+	text ":קולו של מישהו"
+	line "!אל תברח"
 	done
 
